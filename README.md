@@ -7,7 +7,7 @@
 
 - 🌐 Websites [Site para Psicóloga](https://psicologaangelacorrea.com.br/)
 
-- 🌱 Atualmente estou aprendendo sobre **JavaScript, Android e Angular**
+- 🌱 Atualmente estou aprendendo sobre **JavaScript, Android, React e Angular**
 
 - 👨‍💻 Meu site profissional [https://smartbait.com.br/](https://smartbait.com.br/)
 
