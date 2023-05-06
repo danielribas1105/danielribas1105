@@ -5,11 +5,11 @@
 
 - 🎓 Pós-Graduação: **Desenvolvimento de Apps, Desenvolvimento Web, Marketing Digital**
 
-- 🌱 Atualmente estou aprendendo sobre **JavaScript e React**
+- 🌱 Atualmente estou aprendendo sobre **JavaScript** e **React**
 
 - 👨‍💻 Meu portfólio [Notion-Daniel-Ribas](https://crimson-lillipilli-e34.notion.site/Ol-eu-sou-Daniel-Ribas-af24962b81b848cb801d1fbac05a2d05)
 
-- 🎮 Interesses **Gaming, Movies, Gym**
+- 🎮 Interesses **Gaming, Movies** e **Gym**
 
 <h3 align="left">Languages:</h3>
 
