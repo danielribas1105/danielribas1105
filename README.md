@@ -18,9 +18,9 @@
 - 🎮 Interesses **Gaming, Movies, Gym**
 
 <h3 align="left">Languages:</h3>
-<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielribas1105)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <h3 align="left">Tech Skills:</h3>
 <div>
