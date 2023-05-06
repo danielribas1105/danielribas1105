@@ -20,7 +20,7 @@
 - 🎮 Interesses **Gaming, Movies, Gym**
 
 <h3 align="left">Tech Skills:</h3>
-<div>
+<div style="display: inline_block">
 <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -37,7 +37,7 @@
 <img align="center" alt="andoid" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <img align="center" alt="andoid" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
 </div>
-
+##
 <h3 align="left">Contact me:</h3>
 <div> 
   <a href="https://www.instagram.com/danielribas1105/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
