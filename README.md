@@ -1,21 +1,18 @@
 <h1 align="center">Olá 👋, Eu sou Daniel Ribas</h1>
 <h3 align="center">Um apaixonado por programação e pela versatilidade do mundo web.</h3>
 
-- 📱 Apps Android [App DR Personal Trainer](https://play.google.com/store/apps/details?id=com.apps.drpersonalmanager)
+- 🎓 Graduação: **Bacharel em Análise de Sistemas**
 
-- 📱 Apps Android [App DR Personal - Aluno](https://play.google.com/store/apps/details?id=com.apps.drpersonal)
-
-- 🌐 Websites [Site para Psicóloga](https://psicologaangelacorrea.com.br/)
+- 🎓 Pós-Graduação: **Desenvolvimento de Apps, Desenvolvimento Web, Marketing Digital**
 
 - 🌱 Atualmente estou aprendendo sobre **JavaScript e React**
 
-- 👨‍💻 Meu site profissional [https://smartbait.com.br/](https://smartbait.com.br/)
-
-- 🎓 Graduação e Pós-Graduação [Bacharel em Análise de Sistemas, Desenvolvimento Apps Android, Desenvolvimento Web, Marketing Digital]
+- 👨‍💻 Meu portfólio [Notion-Daniel-Ribas](https://crimson-lillipilli-e34.notion.site/Ol-eu-sou-Daniel-Ribas-af24962b81b848cb801d1fbac05a2d05)
 
 - 🎮 Interesses **Gaming, Movies, Gym**
 
 <h3 align="left">Languages:</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielribas1105)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Tech Skills:</h3>
