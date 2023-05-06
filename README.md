@@ -15,12 +15,10 @@
 
 - 💬 Pergunte-me sobre **HTML, CSS, JAVA, SQL**
 
-- 📧 Posso ser encontrado através do email **danielribas1105@gmail.com**
-
 - 🎮 Interesses **Gaming, Movies, Gym**
 
 <h3 align="left">Tech Skills:</h3>
-<div style="display: inline_block">
+<div>
 <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -39,7 +37,7 @@
 </div>
 
 <h3 align="left">Contact me:</h3>
-<div style="display: inline_block"> 
+<div> 
   <a href="https://www.instagram.com/danielribas1105/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danielribas1105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielribas-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
