@@ -5,7 +5,7 @@
 
 - 🎓 Pós-Graduação: **Desenvolvimento de Apps, Desenvolvimento Web, Marketing Digital**
 
-- 🌱 Atualmente estou aprendendo sobre **Javascript**, **Typescript** e **NextJs**
+- 🌱 Atualmente estou aprendendo sobre **Javascript**, **Typescript**, **NextJs** e **React-Native**
 
 - 👨‍💻 Meu portfólio [Notion-Daniel-Ribas](https://crimson-lillipilli-e34.notion.site/Ol-eu-sou-Daniel-Ribas-af24962b81b848cb801d1fbac05a2d05)
 
@@ -21,9 +21,7 @@
 <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="center" alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-<img align="center" alt="angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="center" alt="react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="andoid" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="andoid" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
