@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo sobre **Javascript**, **Typescript**, **NextJs** e **React-Native**
 
-- 👨‍💻 Meu portfólio [Notion-Daniel-Ribas](https://crimson-lillipilli-e34.notion.site/Ol-eu-sou-Daniel-Ribas-af24962b81b848cb801d1fbac05a2d05)
+- 👨‍💻 Meu portfólio https://drcode-website.vercel.app/
 
 - 🎮 Interesses **Gaming, Movies** e **Gym**
 
