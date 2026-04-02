@@ -1,44 +1,76 @@
-<h1 align="center">Olá 👋, Eu sou Daniel Ribas</h1>
-<h3 align="center">Um apaixonado por programação e pela versatilidade do mundo web.</h3>
+# 👋 Olá, eu sou o Daniel Ribas
 
-- 🎓 Graduação: **Bacharel em Análise de Sistemas**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Focado+em+IA+e+Web;Next.js+%7C+FastAPI+%7C+TypeScript;Sempre+aprendendo+🚀" />
+</p>
 
-- 🎓 Pós-Graduação: **Desenvolvimento de Apps, Desenvolvimento Web, Marketing Digital**
+---
 
-- 🌱 Atualmente estou aprendendo sobre **Javascript**, **Typescript**, **NextJs** e **React-Native**
+## 🧠 Sobre mim
 
-- 👨‍💻 Meu portfólio https://drcode-website.vercel.app/
+💻 Desenvolvedor Full Stack apaixonado por tecnologia  
+🚀 Focado em aplicações web modernas e Inteligência Artificial  
+📍 Brasil  
 
-- 🎮 Interesses **Gaming, Movies** e **Gym**
+---
 
-<h3 align="left">Languages:</h3>
+## 🚀 Tecnologias e ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielribas1105)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-<h3 align="left">Tech Skills:</h3>
-<div>
-<img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="center" alt="javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-<img align="center" alt="react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="git-hub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="center" alt="figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="center" alt="vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="center" alt="wordpress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-<img align="center" alt="woocommerce" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" />
-</div>
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
 
-<h3 align="left">Contact me:</h3>
-<div> 
-  <a href="https://www.instagram.com/danielribas1105/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danielribas1105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielribas-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+## 📌 Projetos em destaque
+
+🚀 Em breve — adicionando projetos reais com deploy  
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danielribas1105&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielribas1105&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak (consistência)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=danielribas1105&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](SEU_LINK_AQUI)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:SEU_EMAIL_AQUI)
+
+---
+
+## 🚀 Objetivo
+
+Evoluir como desenvolvedor e construir soluções que gerem impacto real, principalmente utilizando IA integrada a aplicações web modernas.
+
+---
+
+<p align="center">
+  ⭐ Se curtir algum projeto, não esqueça de deixar uma estrela!
+</p>
