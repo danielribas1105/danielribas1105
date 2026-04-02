@@ -10,7 +10,7 @@
 
 💻 Desenvolvedor Full Stack apaixonado por tecnologia  
 🚀 Focado em aplicações web modernas e Inteligência Artificial  
-📍 Brasil  
+📍 Rio de Janeiro - Brasil  
 
 ---
 
@@ -60,8 +60,8 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](SEU_LINK_AQUI)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielribas-developer/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:danielribas1105@gmail.com)
 
 ---
 
